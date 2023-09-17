@@ -1,0 +1,6 @@
+{
+  "parent": "item/genarated",
+  "textures": {
+    "layer0": "examplemod:item/ruby"
+  }
+}
